@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Forest_Keeper", "Forest_Keeper.vcxproj", "{137D1979-50E6-4E51-850E-34E6DACF83F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137D1979-50E6-4E51-850E-34E6DACF83F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{137D1979-50E6-4E51-850E-34E6DACF83F7}.Debug|x86.Build.0 = Debug|Win32
+		{137D1979-50E6-4E51-850E-34E6DACF83F7}.Release|x86.ActiveCfg = Release|Win32
+		{137D1979-50E6-4E51-850E-34E6DACF83F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C622CEF-6FDA-4665-9710-CDC929EA5006}
+	EndGlobalSection
+EndGlobal
