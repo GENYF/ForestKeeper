@@ -29,3 +29,7 @@ IoT 장비는 C/C++, Arduino IDE, Visual Studio 2017로 개발할 예정이다. 
  
 - 경제성
 “Forest Keeper”의 개발 비용은 약 5만 원으로 추정되며 숲마다 수십 개를 설치할 수 있을 정도의 매우 저렴한 가격이다. 현재 파괴되고 있는 숲의 면적을 고려한다면 이는 결코 높은 비용이 아니며 본 솔루션의 실행으로 얻게 될 경제 효과는 매우 크다. 숲을 지킴으로써 환경을 지킬 수 있으며 산불의 초기 진압이 수월해지기 때문에 산불로 인한 경적 손실을 최소화할 수 있어 잠재적으로 큰 경제성을 지니고 있다.
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
